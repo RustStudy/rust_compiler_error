@@ -1,3 +1,5 @@
+[官方error索引页面](https://doc.rust-lang.org/error-index.html)
+
 # 说明
 
 Rust Compiler Error 中文翻译项目，方便查阅，欢迎贡献。
