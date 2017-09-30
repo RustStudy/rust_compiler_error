@@ -1,4 +1,4 @@
-[官方error索引页面](https://doc.rust-lang.org/error-index.html)
+[官方Error索引页面](https://doc.rust-lang.org/error-index.html)
 
 # 说明
 
