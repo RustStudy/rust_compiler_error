@@ -5,7 +5,7 @@
 Rust Compiler Error 中文翻译项目，方便查阅，欢迎贡献。
 
 - now目录为当前编译器还存在的错误代码
-- history目录为当前编译器不再发出的错误代码，但已经改为了warning
+- history目录为当前编译器不再发出的错误代码，但有些已经改为了warning
 
 ## 如何贡献：
 
